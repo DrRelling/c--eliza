@@ -1,0 +1,11 @@
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\bin\Debug\netcoreapp2.0\c#-eliza.deps.json
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\bin\Debug\netcoreapp2.0\c#-eliza.runtimeconfig.json
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\bin\Debug\netcoreapp2.0\c#-eliza.runtimeconfig.dev.json
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\bin\Debug\netcoreapp2.0\c#-eliza.dll
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\bin\Debug\netcoreapp2.0\c#-eliza.pdb
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.csprojResolveAssemblyReference.cache
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.csproj.CoreCompileInputs.cache
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.AssemblyInfoInputs.cache
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.AssemblyInfo.cs
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.dll
+C:\Users\afoster1\Documents\Projects\Personal\c#-eliza\obj\Debug\netcoreapp2.0\c#-eliza.pdb
